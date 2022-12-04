@@ -11,6 +11,8 @@ Dataset :
 
 Contains 12 features about houses like - square_ft, longitude, under_construction and the target variable - target(Price in lacks).
 
+Shape - (29451 x 12)
+
 Languages and libraries:
 
 This project uses python3, sklearn, numpy, pandas, seaborn, matplotlib, xgboost in kaggle jupyter notebook environment.
